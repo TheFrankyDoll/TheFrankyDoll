@@ -1,16 +1,28 @@
-## Hi there 👋
+```
+                                                                  |    TheFrankyDoll@github
+   .::::.                                              .::::.     |  -----------------------------
+ .============-:::.                          .:::-============.   |  SPECIALIZATION: Middle C# Game Developer
+ .--=================:                    :=================--.   |  OS: NixOS / MS Windows
+    .--================                  ================--.      |  EDITOR: Neovim / Visual Studio
+       :===============                  ===============:         |  LOCATION: GMT+07:00
+          :============                  ============:   .:===:   |  
+            :-=========                  =========-:   .:===:'    |  
+               -=======                  =======-   .:===:'       |  
+                  ====                    ====     :===:'         |  
+                                                                  |  
+                                                                  |  
+                                                                  |  
+                                                                  |  
+                                                                  |  
+                                                                  |  
+                                                                  |  
+                                                                  |       /------------------------------------------------\
+                                                                  |      |  another neofetch-ish 'about me' section? lame.  |
+                            .-=DDDDDDDD=-.                        |       \------------------------------------------------/
+                           ==DDDDDDDDDDDD==                       |               \   ^__^ 
+                                                                  |                \  (oo)\_______
+                     ==DDDDDDDDDDDD==                             |                   (__)\       )\/\\
+                      '-=DDDDDDDD=-'                              |                       ||----w |
+                                                                  |                       ||     ||
+```
 
-<!--
-**TheFrankyDoll/TheFrankyDoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
