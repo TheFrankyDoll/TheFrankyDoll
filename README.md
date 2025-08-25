@@ -30,7 +30,7 @@
 
 I make videogames. While I know my way around full gamedev pipeline, my main skill is definitly <b>C# programming</b>.
 
-<b>Want to hire me?</b> My resume is avaliable here: [EN](https://drive.google.com/file/d/1avGin8z6W-d8HcgHmEHt2qDpYrRMJRKs/view?usp=sharing) / [RU](https://drive.google.com/file/d/1nL34YSDkPUdD7O3t-mwyvpjbLb_pIvOz/view?usp=sharing)
+Want to hire me? ~~My resume is avaliable here:~~ <b>Fat chance.</b>
 
 ### I'm also:
 * Working on an ambitious personal to-be-announced project since October, 2017.
